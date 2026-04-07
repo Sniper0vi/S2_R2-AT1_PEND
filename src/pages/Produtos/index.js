@@ -11,7 +11,7 @@ export default function Produtos() {
 
           {/* Primeiro produto */}
           <Image
-            source={require("../assets/jogador.png")}
+            source={require("../../../assets/jogador.jpg")}
             style={styles.image}
           />
           <Text style={styles.titulo}>Top Jogador</Text>
