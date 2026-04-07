@@ -33,7 +33,7 @@ export default function Produtos() {
 
           {/* Segundo produto */}
           <Image
-            source={require("../../../assets/barco.png")}
+            source={require("../../../assets/barco.jpg")}
             style={styles.image}
           />
           <Text style={styles.titulo}> Titanick </Text>
@@ -55,7 +55,7 @@ export default function Produtos() {
 
           {/* Terceiro produto */}
           <Image
-            source={require("../../../assets/alien.png")}
+            source={require("../../../assets/alien.jpg")}
             style={styles.image}
           />
           <Text style={styles.titulo}>Etziudos</Text>
